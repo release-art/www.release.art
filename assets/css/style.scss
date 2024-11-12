@@ -6,4 +6,10 @@
 body header img {
     width: 7vw;
     height: auto;
+    margin: auto 3vw;
+}
+
+footer > p > small {
+    // Sorry
+    visibility: hidden;
 }
