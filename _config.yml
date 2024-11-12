@@ -7,3 +7,9 @@ description: "releaseing software as an art"
 logo: "/assets/images/logo.svg"
 show_downloads: false
 # google_analytics: [Your Google Analytics tracking ID]
+
+github:
+  is_project_page: false
+  is_user_page: false
+  is_organization_page: false
+  
