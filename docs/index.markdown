@@ -1,7 +1,5 @@
 **Release.art: Your Local Partner for Custom AI Solutions in Milton Keynes**
 
-t2
-
 At Release.art, we are dedicated to empowering Milton Keynes businesses with affordable, tailored AI solutions that streamline operations, enhance customer engagement, and drive growth. As a local software consultancy, we understand the unique challenges and ambitions of businesses in the area, from SMEs to established companies looking to harness the power of artificial intelligence.
 
 Our team of experienced developers, data scientists, and business strategists collaborate closely with clients to create custom AI applications designed to deliver practical results. Whether it's automating repetitive tasks, refining customer service through intelligent chatbots, or leveraging predictive analytics for smarter decision-making, we ensure that each solution aligns perfectly with the client's objectives and budget.
