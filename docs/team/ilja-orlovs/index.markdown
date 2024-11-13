@@ -2,6 +2,10 @@
 
 <div class="photo">
     <img src="./assets/photo.jpg" alt="photo"/>
+    <br/>
+    <a href="https://1drv.ms/w/c/5da12d2571dea029/QSmg3nElLaEggF18KQAAAAAAeB4kKyH_QlmZdQ">
+&#x2709; CV
+</a>
 </div>
 
 ## Software/AI Engineer
@@ -17,6 +21,13 @@ His prior experience spans advanced cloud deployments, API standardization, and 
 Technical Environment: Python, Java, Kotlin, Linux, Docker, Kubernetes (OpenShift), Kafka, Airflow, AWS, Terraform, Jenkins, and various front-end frameworks.
 
 
-<a href="https://1drv.ms/w/c/5da12d2571dea029/QSmg3nElLaEggF18KQAAAAAAeB4kKyH_QlmZdQ">
-&#x2709; CV
-</a>
+
+
+
+<iframe
+    src="https://docs.google.com/forms/d/e/1FAIpQLSdRzHReWKawCbomt5HF8SvwXHWZLho6zkePkCZU8bRJQWMQ0w/viewform?embedded=true"
+    width="640" height="1024"
+    frameborder="0" marginheight="0" marginwidth="0"
+>
+    Loading…
+</iframe>
