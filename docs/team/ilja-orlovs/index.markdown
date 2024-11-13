@@ -1,16 +1,29 @@
-# Ilja Orlovs
+# Our team
 
 <div class="photo">
     <img src="./assets/photo.jpg" alt="photo"/>
-    <br/>
-    <a href="https://1drv.ms/w/c/5da12d2571dea029/QSmg3nElLaEggF18KQAAAAAAeB4kKyH_QlmZdQ">
-&#x2709; CV
-</a>
 </div>
 
-## Software/AI Engineer
+## Ilja Orlovs
+### Software/AI Engineer
 
-[Email address: ilja.orlovs@release.art](mailto:ilja.orlovs@release.art)
+<div>
+    <p>
+        <a href="mailto:ilja.orlovs@release.art">
+            :email: ilja.orlovs@release.art
+        </a>
+    </p>
+    <p>
+        <a href="https://maps.app.goo.gl/EoMFdXpNpUkUVHHy8">
+            :earth_africa: Milton Keynes, United Kingdom
+        </a>
+    </p>
+    <p>
+        <a href="https://1drv.ms/w/c/5da12d2571dea029/QSmg3nElLaEggF18KQAAAAAAeB4kKyH_QlmZdQ">
+            :pencil: CV
+        </a>
+    </p>
+</div>
 
 Ilja Orlovs is an AWS-certified software engineer and technical lead with over 16 years of experience, specializing in high-performance cloud architecture, machine learning pipelines, and backend engineering for data-driven platforms. His career highlights include leading development of ML-based data ingestion pipeline, overseeing backend architecture for NLP document aggregation system, and driving automation and infrastructure projects for fraud detection platform in one of major UK Banks.
 
