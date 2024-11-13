@@ -4,6 +4,8 @@
     <img src="./assets/photo.jpg" alt="photo"/>
 </div>
 
+[Email address: ilja.orlovs@release.art](mailto:ilja.orlovs@release.art)
+
 Ilja Orlovs is an AWS-certified software engineer and technical lead with over 16 years of experience, specializing in high-performance cloud architecture, machine learning pipelines, and backend engineering for data-driven platforms. His career highlights include leading development of ML-based data ingestion pipeline, overseeing backend architecture for NLP document aggregation system, and driving automation and infrastructure projects for fraud detection platform in one of major UK Banks.
 
 In his recent roles, Ilja has demonstrated expertise in building scalable systems, from designing ETL pipelines and deploying ML models as services to developing secure backend APIs and maintaining large-scale Kafka clusters. He has a proven track record of leading cross-functional teams, mentoring junior engineers, and driving cross-team collaboration to enhance product value and alignment with business objectives.
