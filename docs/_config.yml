@@ -24,7 +24,7 @@ description: >
 logo: "/assets/images/logo.svg"
 show_downloads: false
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "httpw://www.release.art"
+url: "https://www.release.art"
 google_analytics: "G-091PK2BP5K"
 
 email: hello@release.art
