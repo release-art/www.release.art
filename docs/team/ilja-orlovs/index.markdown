@@ -37,10 +37,3 @@ Technical Environment: Python, Java, Kotlin, Linux, Docker, Kubernetes (OpenShif
 
 
 
-<iframe
-    src="https://docs.google.com/forms/d/e/1FAIpQLSdRzHReWKawCbomt5HF8SvwXHWZLho6zkePkCZU8bRJQWMQ0w/viewform?embedded=true"
-    width="640" height="1024"
-    frameborder="0" marginheight="0" marginwidth="0"
->
-    Loading…
-</iframe>
