@@ -1,5 +1,24 @@
+# Our team
+
+<div class="photo">
+    <img src="./assets/photo.jpg" alt="photo"/>
+</div>
+
 ## Natalia Nechistiak
 ### Marketing & Sales Expert and Strategic Partner
+
+<div>
+    <p>
+        <a href="mailto:natalia@release.art">
+            :email: natalia@release.art
+        </a>
+    </p>
+    <p>
+        <a href="https://maps.app.goo.gl/EoMFdXpNpUkUVHHy8">
+            :earth_africa: Milton Keynes, United Kingdom
+        </a>
+    </p>
+</div>
 
 
 With over 18 years of experience in marketing and sales, Natalia Nechistiak is a vital contributor to release.art’s mission of bringing practical AI solutions to local businesses. Her extensive background spans customer engagement strategies, digital marketing, and revenue growth, giving her a nuanced understanding of what drives business success in today’s market.
