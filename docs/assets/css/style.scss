@@ -24,3 +24,54 @@ section.contact-us iframe {
     width: 100%;
     height: 1024px
 }
+
+ul.buttons {
+    list-style:none;
+    min-height: 40px;
+    padding:0;
+    font-size: 0.9rem;
+    display: table;
+    margin: 0 auto; // align center
+}
+
+.buttons li {
+    width:89px;
+    float:left;
+    display: inline;
+    border-right:1px solid #e0e0e0;
+    height:100%;
+    background: #f4f4f4;
+    border:1px solid #e0e0e0;
+    width: fit-content;
+}
+
+.buttons li:first-child {
+    border-radius:5px 0 0 5px;
+}
+
+.buttons li:last-child {
+    border-radius:0 5px 5px 0;
+}
+
+.buttons li:only-child {
+    border-radius:5px;
+}
+
+
+.buttons a {
+    line-height:1;
+    color:#676767;
+    display:block;
+    text-align:center;
+    padding: 1em;
+    height:34px;
+}
+
+.buttons a:hover, .downloads a:focus {
+    color:#675C5C;
+    font-weight:bold;
+}
+
+.buttons ul a:active {
+    background-color:#f0f0f0;
+}

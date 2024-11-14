@@ -28,6 +28,13 @@ url: "https://www.release.art"
 google_analytics: "G-091PK2BP5K"
 
 email: hello@release.art
+contact_us_html: >
+  <iframe
+      src="https://docs.google.com/forms/d/e/1FAIpQLSdRzHReWKawCbomt5HF8SvwXHWZLho6zkePkCZU8bRJQWMQ0w/viewform?embedded=true"
+      frameborder="0" marginheight="0" marginwidth="0"
+  >
+      Loading…
+  </iframe>
 
 # Build settings
 remote_theme: pages-themes/minimal@v0.2.0
