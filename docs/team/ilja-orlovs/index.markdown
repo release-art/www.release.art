@@ -1,15 +1,3 @@
----
-contact_us_html: >
-    <ul class="buttons">
-        <li>
-            <a href="https://meet.release.art/#/ilja">
-                Book a meeting with
-                <br/>
-                <strong>Ilja</strong>
-            </a>
-        </li>
-    </ul>
----
 # Our team
 
 <div class="photo">

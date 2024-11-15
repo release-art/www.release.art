@@ -64,12 +64,13 @@ ul.buttons {
     display:block;
     text-align:center;
     padding: 1em;
-    height:34px;
 }
 
 .buttons a:hover, .downloads a:focus {
     color:#675C5C;
-    font-weight:bold;
+    // font-weight:bold;
+    text-shadow: 1px 0 0 currentColor;
+    font-weight: normal;
 }
 
 .buttons ul a:active {

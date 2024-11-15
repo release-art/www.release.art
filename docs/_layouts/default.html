@@ -27,11 +27,6 @@
 
         <p><h2>{{ site.description | default: site.github.project_tagline }}</h2></p>
         <p>
-            <h5>
-                Contact us: <a href="mailto:{{ site.email }}">{{ site.email }}</a>
-            </h5>
-        </p>
-        <p>
             <ul>
                 <li>
                     AI customer support:
@@ -57,7 +52,10 @@
 
       </section>
       <section class="contact-us">
-        {{ page.contact_us_html | default: contact_us_html }}
+        <ul class="buttons">
+          <li><a href="https://forms.zohopublic.eu/release-art/form/ContactUs/formperma/PAvKmNH1wDCDiFvrF9bcIOBRUNFIiu6VckXbxOtwILg">Send us a message</a></li>
+          <li><a href="https://meet.release.art/">Schedule a call</a></li>
+        </ul>
       </section>
       <footer>
         <a href="/team">Meet the team</a>
