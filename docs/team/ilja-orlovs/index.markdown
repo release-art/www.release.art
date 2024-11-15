@@ -2,7 +2,7 @@
 contact_us_html: >
     <ul class="buttons">
         <li>
-            <a href="https://calendar.app.google/Qr9v88ABefHQ8FiS7">
+            <a href="https://meet.release.art/#/ilja">
                 Book a meeting with
                 <br/>
                 <strong>Ilja</strong>
